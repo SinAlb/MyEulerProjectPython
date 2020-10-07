@@ -7,3 +7,4 @@ while f[i] < 4000000:
     f.append(f[i-1] + f[i])
     i += 1
 print(s)
+# получилось 4613732
